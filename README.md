@@ -10,10 +10,10 @@ npm install --adding-two-objects
 ## Get started
 
 ```sh
-const { sumObject, firstObj, secondObj } = require('./adding-two-objects');
+const { sumObject, firstObj, secondObj } = require('adding-two-objects');
 ```
 
-## Note
+## Command Line
 ## Option 1
 Where **sumObject** is a function that takes 2 object arguments
 Next you **firstObj, secondObj** We can pass these 2 arguments using Command-line interface

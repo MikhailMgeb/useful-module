@@ -2,7 +2,7 @@
   "name": "adding-two-objects",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "adding-two-objects.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "16.3.2",
-    "javascript-from-string": "1.0.3"
+    "dotenv": "16.3.2"
   }
 }
