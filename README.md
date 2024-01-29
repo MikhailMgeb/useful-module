@@ -3,7 +3,7 @@
 ## Installation
 ```sh
 
-npm install --adding-two-objects
+npm install adding-two-objects
 
 ```
 
